@@ -1,4 +1,4 @@
-## TrackSecure <img height="40px" src="https://github.com/TrackSecure/Site_Institucional/blob/master/imgs/logo1.png">
+## TrackSecure <img height="25px" src="https://github.com/TrackSecure/Site_Institucional/blob/main/Site/public/imgs/logo.png">
 
 <p>Em virtude do problema da carência de tecnologias para o monitoramento de servidores de catracas de transportes, criamos a <b>TrackSecure</b> um projeto 
   com o fundamento de desenvolver uma aplicação para ajudar o acompanhamento de componentes dos servidores de catracas</p>
