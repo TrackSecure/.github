@@ -28,7 +28,7 @@ Nosso projeto é dedicado ao controle de componentes de servidores. Sendo assim,
 
 ![Status](https://img.shields.io/badge/Status_do_projeto-Em_Andamento-yellow) 
 
-Equipe Atual - Bruna Reginato, Enzo Bizeli, Gustavo Moraes, Felipe Patroni, Pedro Augusto, Vitor Hideo
+Equipe Atual - Bruna Reginato, Enzo Bizeli, Gustavo Moraes, Felipe Patroni, Vitor Hideo
 
-<sub> Copyright ©️ 2024 - Bruna Reginato, Enzo Bizeli, Gustavo Moraes, Felipe Patroni, Pedro Augusto, Vitor Hideo </sub>
+<sub> Copyright ©️ 2024 - Bruna Reginato, Enzo Bizeli, Gustavo Moraes, Felipe Patroni, Vitor Hideo </sub>
 
